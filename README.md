@@ -1,4 +1,4 @@
-# 📥 Flutter Download Manager Package
+# 📥Download Manager
 
 A powerful and easy-to-use Flutter package for handling background downloads with notifications, pause/resume support, permissions, and customizable UI widgets.  
 This package wraps `flutter_downloader` + `flutter_local_notifications` with a simplified and developer-friendly API.

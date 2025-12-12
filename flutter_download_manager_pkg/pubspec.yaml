@@ -1,7 +1,7 @@
 name: flutter_download_manager_pkg
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_download_manager
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_download_manager
 
 environment:
   sdk: ^3.8.1
